@@ -13,7 +13,7 @@
                   "password": "пароль",
                   "scan_interval": "пауза между обновлениями (мин)"
               },
-              "description": "Ознакомьтесь с инструкциями, если Вам нужна помощь с настройкой:\nhttps://github.com/volshebniks/sauresha",
+              "description": "Ознакомьтесь с инструкциями, если вам нужна помощь с настройкой:\nhttps://github.com/vit9696/SauresHA",
               "title": "Интеграция HA c Saures"
           }
       }

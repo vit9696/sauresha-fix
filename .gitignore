@@ -268,3 +268,5 @@ __pycache__/
 /custom_components/sauresha/LICENSE
 custom_components/sauresha/.vscode/settings.json
 .gitignore
+
+.DS_Store

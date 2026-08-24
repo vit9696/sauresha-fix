@@ -13,8 +13,8 @@
                   "password": "password",
                   "scan_interval": "pause between updates (min)"
               },
-              "description": "Read the documentation, if you need a help :\nhttps://github.com/volshebniks/sauresha",
-              "title": "Integration HA with Saures"
+              "description": "Read the documentation, if you need a help :\nhttps://github.com/vit9696/SauresHA",
+              "title": "Saures HA Integration"
           }
       }
   },

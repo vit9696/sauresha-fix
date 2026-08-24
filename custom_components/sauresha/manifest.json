@@ -1,13 +1,13 @@
 {
   "domain": "sauresha",
   "name": "SauresHA",
-  "documentation": "https://github.com/volshebniks/sauresha",
-  "issue_tracker": "https://github.com/volshebniks/sauresha/issues",
+  "documentation": "https://github.com/vit9696/SauresHA",
+  "issue_tracker": "https://github.com/vit9696/SauresHA/pulls",
   "requirements": [],
   "dependencies": [],
-  "version": "1.0.4",
+  "version": "1.0.5",
   "config_flow": true,
   "codeowners": [
-  	"@volshebniks"
+  	"@vit9696"
   ]
 }

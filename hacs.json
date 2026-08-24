@@ -1,5 +1,5 @@
 {
-  "name": "Integration Saures controllers with HA",
+  "name": "Saures Controller HA Integration",
   "domains": ["binary_sensor", "sensor", "switch"],
   "homeassistant": "0.104",
   "country": ["RU"]

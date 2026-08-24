@@ -5,7 +5,7 @@
 The Saures component.
 
 For more details about this platform, please refer to the documentation at
-https://github.com/volshebniks/sauresha/
+https://github.com/vit9696/SauresHA/
 """
 
 # Base component constants
@@ -16,7 +16,7 @@ NAME = "Saures"
 DOMAIN = "sauresha"
 VERSION = "1.0.0"
 ATTRIBUTION = "Home assistant component for Saures"
-ISSUE_URL = "https://github.com/volshebniks/sauresha/issues"
+ISSUE_URL = "https://github.com/vit9696/SauresHA/pulls"
 
 PLATFORMS = ["binary_sensor", "sensor", "switch"]
 

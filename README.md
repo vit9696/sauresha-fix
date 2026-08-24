@@ -5,7 +5,9 @@ SauresHA
 ![GitHub Release Date](https://img.shields.io/github/release-date/vit9696/SauresHA)
 [![GitHub](https://img.shields.io/github/license/vit9696/SauresHA)](LICENSE)
 
-Интеграция котроллеров [Saures](https://www.saures.ru) c [Home Assistant](https://www.home-assistant.io/)
+Интеграция котроллеров [Saures](https://www.saures.ru) c [Home Assistant](https://www.home-assistant.io/).
+
+*Внимание*: кодовая база достаточно старая и содержит множество недоработок, к примеру, нет адекватной поддержки нескольких контроллеров. Репозиторий живёт в режиме "как есть" из-за удаления всех ранее существовавших форков. Исправления не ожидаются, но в целом принимаются.
 
 ## Описание
 
